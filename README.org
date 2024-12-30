@@ -4,7 +4,7 @@ Require scala version >= 2.11.12
 
 Run
 #+begin_src bash
-  scalac Donut.scala && scala Dontun
+  scalac Donut.scala && scala Donut
 #+end_src
 
 [[file:scala-donut-ascii.gif]]
