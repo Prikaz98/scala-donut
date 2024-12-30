@@ -1,0 +1,13 @@
+#+title: Donut ascii written in Scala
+
+Require scala version >= 2.11.12
+
+Run
+#+begin_src bash
+  scalac Donut.scala && scala Dontun
+#+end_src
+
+[[file:scala-donut-ascii.gif]]
+
+This program is based on program by Andy Sloane
+[[https://www.a1k0n.net/2011/07/20/donut-math.html][Donut math: how donut.c works]]
